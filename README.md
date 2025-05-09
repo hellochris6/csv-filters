@@ -22,11 +22,3 @@ Keeps only rows where the second column ends with one of the specified **include
 
 - Python 3.x
 - No external libraries required
-
-## Setup
-
-Clone the repo and ensure you're using Python 3:
-
-```bash
-git clone https://github.com/yourusername/csv-filters.git
-cd csv-filters
